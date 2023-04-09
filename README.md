@@ -1,6 +1,6 @@
 # GPT-3 Telegram Bot
 
-This project is a Telegram bot that interacts with GPT-3.5 (what runs ChatGPT) using the OpenAI API. Users can have a conversation with the GPT-3 model in a Telegram chat.
+This project is a Telegram bot that interacts with GPT-3.5 (what runs ChatGPT) using the OpenAI API. Users can have a conversation with the GPT-3.5 model in a Telegram chat.
 
 ## Features
 
