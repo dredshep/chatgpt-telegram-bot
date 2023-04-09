@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "lib": ["es2017", "dom"]
+    "lib": ["ESNext", "DOM"]
   },
   "include": ["./**/*.ts"],
   "exclude": ["node_modules"]
