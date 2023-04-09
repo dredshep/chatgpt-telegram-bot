@@ -64,8 +64,9 @@ ts-node index.tsx
 
 You can also set it up to run on pm2 in daemonized version that will live after you close your terminal
 
-```
+```bash
 pm2 start ts-node --name chatgpt-telegram-bot -- index.ts
+```
 
 The bot should now be running and ready to receive commands.
 
